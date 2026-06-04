@@ -20,7 +20,7 @@ I focus on:
 
 ✨ View My Full Portfolio
 
-![Portfolio Preview](https://raw.githubusercontent.com/jocelynnie314/jiangyuxuan-portfolio/main/portfolio-cover.png)
+![Portfolio Preview](./portfolio-cover.png)
 
 [Open Portfolio →](https://jocelyn-portfolio.my.canvasite.cn/)
 ---
