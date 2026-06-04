@@ -18,9 +18,9 @@ I focus on:
 
 ## Portfolio
 
-🌐 Online Portfolio:
+✨ View My Full Portfolio
 
-https://jocelyn-portfolio.my.canvasite.cn/
+[Open Portfolio →](https://jocelyn-portfolio.my.canvasite.cn/)
 
 ---
 
