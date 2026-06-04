@@ -1,7 +1,10 @@
-# Jiang Yuxuan Portfolio
+# Jiang Yuxuan
 
-Advertising Student | Brand Marketing | Creative Strategy
+## Brand Marketing | Creative Strategy | Content Planning
 
+A creative marketer passionate about youth culture, social trends and emotional storytelling.
+
+Turning consumer insights into meaningful brand experiences.
 ---
 
 ## About Me
